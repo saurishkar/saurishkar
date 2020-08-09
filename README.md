@@ -1,5 +1,22 @@
-### Hi there 👋
 
+
+
+
+## :computer: ~Senior~ Curious Software Engineer :coffee:
+<p>Hi, I'm Saurish -- a Frontend Engineer [@vinsol](https://vinsol.com). I am inclined towards developing rich and interactive features that are helpful to humans.</p>
+
+---
+## My Stack:
+- **Front End**: HTML, CSS, SCSS, ReactJs, Redux, VueJs <br>
+- **Back End**: Ruby on Rails, Firebase, NodeJs <br>
+- **Cloud**: AWS <br>
+- **CD**: Gulp <br>
+- **Agile**: Jira <br>
+
+---
+
+## Also find me floating on
+[LinkedIn](https://www.linkedin.com/in/saurishkar/) | [Medium](https://medium.com/@saurishkar) | [Twitter](https://twitter.com/saurishkar)
 <!--
 **saurishkar/saurishkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
