@@ -3,7 +3,7 @@
 
 
 ## :computer: ~Senior~ Curious Software Engineer :coffee:
-<p>Hi, I'm Saurish -- a Frontend Engineer [@vinsol](https://vinsol.com). I am inclined towards developing rich and interactive features that are helpful to humans.</p>
+Hi, I'm Saurish -- a Frontend Engineer [@vinsol](https://vinsol.com). I am inclined towards developing rich and interactive features that are helpful to humans.<br>
 <p>Apart from code, i like to read :books:, draw :art: and swim :swimmer:. 
 
 ---
