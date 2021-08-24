@@ -8,7 +8,7 @@ Areas of interest include `React`, `Next`, `React Native`, `RoR`, `Vue`, `Node`,
 <p>Apart from code, i like to read :books:, draw :art: and swim :swimmer:. 
 
 ---
-## My Stack:
+### My Stack:
 - **Front End**: HTML, CSS, SCSS, ReactJs, NextJs, Redux <br>
 - **Back End**: Ruby on Rails, Firebase, NodeJs <br>
 - **Cloud**: AWS, Vercel <br>
@@ -16,6 +16,12 @@ Areas of interest include `React`, `Next`, `React Native`, `RoR`, `Vue`, `Node`,
 - **Agile**: Jira <br>
 
 ---
+### My Stats:
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurishkar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Saurish's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurishkar&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Also find me floating on
 [Blog](https://saurishkar.com) | [LinkedIn](https://www.linkedin.com/in/saurishkar/) | [Medium](https://medium.com/@saurishkar) | [Twitter](https://twitter.com/saurishkar)
