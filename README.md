@@ -3,7 +3,7 @@
 
 
 ## :computer: Curious Software Engineer :coffee:
-Hi, I'm Saurish -- a Lead Frontend Engineer [@vinsol](https://vinsol.com). I am inclined towards developing rich and interactive features that are helpful to humans.
+Hi, I'm Saurish -- a Software Engineer. I am inclined towards developing rich and interactive features that are helpful to humans.
 My areas of interest include `React`, `Next`, `Webpack`, `React Native`, `RoR`, `Vue`, `Node` <br>
 <p>Apart from code, i like to read :books:, draw :art: and swim :swimmer:. 
 
